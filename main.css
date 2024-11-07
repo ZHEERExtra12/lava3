@@ -1,0 +1,204 @@
+@media (max-width:500px){
+          body{
+                    overflow-x: hidden;
+          }
+          .logo{
+                    font-size: 2rem;
+          }
+          .navbar{
+                    
+                    text-align: center;
+          }
+          .navbar-toggler{
+                    font-size: 0.5rem;
+                    border: 1px solid white;
+                    
+          }
+          .navbar-toggler-icon{
+                    filter: invert(1);
+                    width: 15px;
+                    height: 18px;
+          }
+          .img-home{
+                    margin-top: -5rem;
+                    width: 250px;
+                    height: 250px;
+                    margin-bottom: 10em;
+          }
+          .container .content-home{
+                    margin-left: 4rem;
+          }
+          .home-heading{
+                    margin-top: -25rem;
+                    font-size: 2rem;
+                    font-weight: 700;
+                    line-height: 40px;       
+          }
+          .pa-home{
+                   margin-right: 1rem;
+          }
+          .home-link{
+                    font-size: 1rem;
+          }
+          .btn-home{
+                    margin-top: 1rem;
+                 margin-left: -1rem;   
+          }
+          .containere{
+                    margin-top: -12rem;
+                    width: 420px;
+                    position: relative;
+          }
+          .heading-about{
+                    font-size: 1.5rem;
+                    
+          }
+          .img-about{
+                    border-radius: 50%;
+                    width: 10rem;
+                    height: 10rem;
+                    position: absolute;
+                    right: 0rem;
+                    top: -6rem;
+          }
+          .pa-about{
+                    font-size: 0.6rem;
+                    margin-right: 4rem;
+          }
+          
+          
+          .about-us-container{
+                    margin-bottom: 0rem;
+                    margin-left: 0.3rem;
+                    
+          }
+          /*product*/
+          .product-categoy{
+                    margin-top: -30rem;
+          }
+          .heading-product{
+                    font-size: 1.5rem;
+          }
+          .card-title{
+                    font-size: 1rem;
+          }
+          .container-box{
+                    
+                    display: grid;
+                    grid-template-columns: repeat(2,1fr);
+                    font-size: 0.5rem;
+                    height: 1rem;
+          }
+          .pa-card{
+                    font-size: 0.6rem;
+          }
+          .btn-product-ctg{
+                    width: 7rem;
+                    height: 2rem;
+                    font-size: 0.7rem !important;
+                    
+          }
+          .btn-product-ctg span{
+                    font-size: 0.5rem;
+          }
+          .img-card{
+                    width: 10rem;
+                    height: 10rem;
+          }
+          /*testmonial*/
+          .testmonial{
+                    margin-top: 75rem;
+                   
+
+          }
+          .pa-testmorial{
+            font-size: 0.7rem;
+          }
+          .container-clients{
+            margin-left: -7rem;
+            display: inline-flex;
+            flex-direction: column;
+            
+          }
+          
+          .client-box{
+                   margin-left: 1.7rem;
+                   width: 22rem;
+                   height: 25rem;
+                   margin-top: 8rem;
+          }
+          .icon-star{
+                    font-size: 1rem;
+          }
+          .clien-name{
+                    font-size: 1rem;
+                    
+          }
+          .pa-client{
+                    font-size: 0.9rem;
+          }
+          .skill{
+            font-weight: bold;
+            margin-top: 1rem;
+            font-size: 0.9rem;
+          }
+          .img-client{
+                    width: 6rem;
+                    height: 6rem;
+          }
+          /*testmonial-done*/
+          
+          .contact-us{
+            margin-left: 0;
+          }
+          .heading-content{
+            font-size: 1rem;
+            margin-left: 7rem;
+          }
+          .conatact-box{
+            width: 24rem;
+            height: 40vh;
+            margin-left: 0.5rem;
+          }
+          .input{
+            width: 11rem;
+            height: 2rem;
+            margin-top: -3.5rem;
+          }
+          .input::placeholder{
+            font-size: 0.8rem;
+          }
+          .message::placeholder{
+            font-size: 0.8rem;
+          }
+          /*message done */
+          .contact-info{
+            margin-top: 7rem;
+            margin-left: 0rem;
+            margin-bottom: 4rem;
+          }
+          .pa-info{
+            margin-left: 4rem;
+            margin-right: -8rem;
+            font-size: 0.8rem;
+          }
+          .pa-info-2{
+            margin-left: 4rem;
+            margin-right: -8rem;
+            font-size: 0.8rem;
+          }
+          .hed{
+            font-size: 1.5rem;
+          }
+          .hed2{
+            font-size: 1rem;
+          }
+          .social-pa{
+            margin-top: 3rem;
+            font-size: 1rem;
+          }
+          .job-list{
+            margin-left: 0rem;
+          }
+          
+} 
